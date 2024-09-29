@@ -19,5 +19,5 @@ Estou ansioso para ver o impacto positivo que o CyberSavers pode trazer para a c
 
 https://github.com/user-attachments/assets/325b74dd-cee0-41e4-a34c-9f58cb750ccd
 
-[![CyberSavers](https://img.shields.io/badge/acesse-o-site-aqui-blue)](https://cybersavers.onrender.com/)
+[![CyberSavers](https://img.shields.io/badge/acesse-aqui-blue)](https://cybersavers.onrender.com/)
 
