@@ -11,6 +11,13 @@ O que é o CyberSavers?
 
 Por que isso é importante? Através do CyberSavers, estamos promovendo a sustentabilidade e a eficiência no agronegócio, capacitando agricultores a tomarem decisões informadas e a se conectarem diretamente com consumidores. Essa abordagem alinhada aos Objetivos de Desenvolvimento Sustentável da ONU visa contribuir para um futuro mais verde e próspero.
 
+Tecnologias Utilizadas
+
+Front-End: HTML, CSS, Tailwind CSS, JavaScript
+
+Back-End: Python, Flask
+
+Banco de Dados: MongoDB
 
 https://github.com/user-attachments/assets/64fa7fda-e0d6-4582-a9f3-a598a1067f68
 
